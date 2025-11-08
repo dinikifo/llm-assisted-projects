@@ -1,4 +1,4 @@
-This folder is created for hosting very small projects not large enough to be held as standalone projects.
+This folder is created for hosting interesting yet very small projects not large enough to be held as standalone projects.
 
 
 ## License
